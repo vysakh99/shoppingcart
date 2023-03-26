@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.ItemProperties.shoppingcartApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="shoppingcartApp/Startup.cs">
+    <Files>
+      <File FileName="shoppingcartApp/Startup.cs" Line="15" Column="15" />
+      <File FileName="shoppingcartApp/appsettings.Development.json" />
+      <File FileName="shoppingcartApp/Program.cs" />
+      <File FileName="Repositories/Contract/IHomepage.cs" />
+      <File FileName="Repositories/Implementation/Hompage.cs" />
+      <File FileName="Models/BasicData.cs" Line="13" Column="1" />
+      <File FileName="Context/CartContext.cs" />
+      <File FileName="shoppingcartApp/appsettings.json" />
+      <File FileName="shoppingcartApp/WeatherForecast.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="shoppingcartApp" expanded="True">
+            <Node name="Models" expanded="True" />
+            <Node name="shoppingcartApp" expanded="True">
+              <Node name="Startup.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects" />
+  </MultiItemStartupConfigurations>
+</Properties>

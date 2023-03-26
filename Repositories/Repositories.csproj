@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Contract\" />
+    <None Remove="Implementation\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Contract\" />
+    <Folder Include="Implementation\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Models\Models.csproj" />
+    <ProjectReference Include="..\Context\Context.csproj" />
+  </ItemGroup>
+</Project>
